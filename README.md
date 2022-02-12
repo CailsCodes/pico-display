@@ -1,1 +1,1 @@
-"# pico-display" 
+# pico-display
